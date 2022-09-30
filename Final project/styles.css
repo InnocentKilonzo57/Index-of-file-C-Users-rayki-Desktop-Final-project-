@@ -1,0 +1,147 @@
+.buttons{
+    display: flex;
+    align-content: center;
+color: blue;
+}
+body{
+    background: lightcyan;
+    margin: 5px 5px;
+
+}
+.topdiv{
+    float: left;
+
+}
+
+
+.footer{
+    background-color: blue;
+font-size: 15px;
+    color: white;
+    align-items: center;
+}
+.marquee{
+    font-size: 18px;
+    color: brown;
+}
+.col1{
+    border: 1px black;
+    background-color: #cbd3da;
+    border-radius: 2px;
+
+}
+.col2{
+    border:2px aliceblue;
+    background-color: lightcoral;
+}
+form{
+
+border-style: wave;
+}
+label{
+    font-size: 20px;
+    color: darkblue;
+    text-align: left;
+}
+input{
+    background-color: silver;
+    color: silver;
+}
+.contactus{
+    font-size: 30px;
+    color: red;
+    align-items: center;text-align: center;
+    background: #7ae0ff;
+}
+
+
+.careerbody{
+    background-image: url("images/logo.jpeg");
+    background-color: gray;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+}
+.form{
+    width: 700px;
+
+    margin: auto;
+    border-radius:1px ;
+    border: groove ghostwhite;
+    background: lemonchiffon;
+}
+.career{
+    color: #1d1e1f;
+    background-color: #1a73e8;
+}
+.hiring{
+    background-color: blue;
+    font-size: 40px;
+    color: red;
+    text-align: center;
+    align-content: center;
+}
+.copy{
+    background-color:black;
+    color: white;
+}
+.bodyservices{
+    background-image: url(imagesplp/mercedes-benz-.jpg);
+    background-color: lightblue;
+    background-repeat: no-repeat;
+
+    background-size: cover;
+}
+.hireform{
+    width: 600px;
+
+    margin: auto;
+    border-radius:2px ;
+    border: groove ghostwhite;
+    background: none;
+}
+.hire{
+    font-size: 30px;
+    font-family: sans-serif;
+    color: red;
+
+}
+.services{
+    font-size: 18px;
+    font-family: "Arial Black";
+    color: lightsalmon;
+    align-content: center;
+}
+.contactform{
+    border-style: solid ;
+    border:groove  gray;
+    border-radius: 4px ;
+    margin-bottom: 20px;
+    padding-bottom: 10px;
+    background-color: lightseagreen;
+
+}
+.tableheader{
+    background-color:blue ;
+}
+.tabledata{
+    background-color: #e4b9b9;
+}
+.rates{
+    font-family: Arial, sans-serif;
+    font-size: 25px;
+    color: #1a73e8;
+}
+.about{
+    background-image: url(imagesplp/Tesla-logo.jpg);
+    background-color: lightgoldenrodyellow;
+    background-repeat: no-repeat;
+
+    background-size: cover;
+}
+.aboutinfo{
+    color: aqua;
+    font-size: 25px;
+
+}
